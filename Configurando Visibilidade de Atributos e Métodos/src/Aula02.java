@@ -5,6 +5,7 @@ public class Aula02 {
         g1.cor = "Azul";
         g1.litros = 1.5f;
         g1.status();
+        g1.beber();
         g1.tampar();
 
     }
